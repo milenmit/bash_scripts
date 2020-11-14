@@ -24,8 +24,5 @@ case $name in
     ;;
 *)
 	echo "This may be not arhive file, pls check."
-#-ne *."tar.gz" || *."bz2" || *."zip")
-#	echo "k0r"
-#	;;
 esac
 
